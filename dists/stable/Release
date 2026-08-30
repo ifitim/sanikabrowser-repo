@@ -1,0 +1,7 @@
+Origin: SanikaBrowser
+Label: SanikaBrowser Repository
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: SanikaBrowser APT Repository

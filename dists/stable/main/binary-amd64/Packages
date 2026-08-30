@@ -1,0 +1,14 @@
+Package: sanikabrowser
+Version: 1.0
+Architecture: amd64
+Maintainer: Ifi Tim
+Filename: pool/sanikabrowser_1.0_amd64.deb
+Size: 1483676
+MD5sum: ca17e74e3aafe992aa55a395e8039028
+SHA1: a45f0a156bfe5986117dda5a5bae4cd774de1b9b
+SHA256: a1f74699f88750d445d9cc76dc6b5fb3ffceacebf147b4bad15f0a4176911626
+Section: web
+Priority: optional
+Description: SanikaBrowser
+ Independent Chromium browser with AI quick links
+
