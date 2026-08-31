@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+
+  <id>com.ifitim.Sanikabrowser</id>
+
+  <name>Sanikabrowser</name>
+  <summary>Independent Chromium browser</summary>
+
+  <description>
+    <p>
+      Sanikabrowser is an independent Chromium browser
+      with AI quick links, customizable start page and settings.
+    </p>
+  </description>
+
+  <launchable type="desktop-id">sanikabrowser.desktop</launchable>
+
+  <icon type="stock">sanikabrowser</icon>
+
+  <categories>
+    <category>Network</category>
+    <category>WebBrowser</category>
+  </categories>
+
+  <url type="homepage">https://ifitim.github.io/sanikabrowser-repo/</url>
+
+  <screenshots>
+    <screenshot type="default">
+      <caption>Sanikabrowser Start Page</caption>
+      <image width="1280" height="720">https://ifitim.github.io/sanikabrowser-repo/screenshots/startpage.png</image>
+    </screenshot>
+
+    <screenshot>
+      <caption>ChatGPT</caption>
+      <image width="1280" height="720">https://ifitim.github.io/sanikabrowser-repo/screenshots/chatgpt.png</image>
+    </screenshot>
+
+    <screenshot>
+      <caption>DeepSeek AI</caption>
+      <image width="1280" height="720">https://ifitim.github.io/sanikabrowser-repo/screenshots/deepseek.png</image>
+    </screenshot>
+
+    <screenshot>
+      <caption>Microsoft Copilot</caption>
+      <image width="1280" height="720">https://ifitim.github.io/sanikabrowser-repo/screenshots/copilot-microsoft.png</image>
+    </screenshot>
+
+    <screenshot>
+      <caption>Mistral AI</caption>
+      <image width="1280" height="720">https://ifitim.github.io/sanikabrowser-repo/screenshots/mistral.png</image>
+    </screenshot>
+
+    <screenshot>
+      <caption>GitHub</caption>
+      <image width="1280" height="720">https://ifitim.github.io/sanikabrowser-repo/screenshots/github.png</image>
+    </screenshot>
+
+    <screenshot>
+      <caption>Outlook</caption>
+      <image width="1280" height="720">https://ifitim.github.io/sanikabrowser-repo/screenshots/outlook.png</image>
+    </screenshot>
+  </screenshots>
+
+  <metadata_license>CC0-1.0</metadata_license>
+
+</component>
