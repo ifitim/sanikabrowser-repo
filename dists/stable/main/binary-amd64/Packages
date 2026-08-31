@@ -3,10 +3,10 @@ Version: 1.0.2
 Architecture: amd64
 Maintainer: Ifi Tim
 Filename: pool/sanikabrowser_1.0.2_amd64.deb
-Size: 1483936
-MD5sum: 38b5ea1a76b23d16f22c9d5900424b0f
-SHA1: 3f35c768527a131670ef3220100a97fcc3f2f62d
-SHA256: 09559f628cdb30c53260d10bd088ae0ac9afc39c623012d798a70f5719b4f9e6
+Size: 1483938
+MD5sum: 5b0e82dfb0431888f5d21e755609251b
+SHA1: 632a5efacf71658f8eba908558f4a0329f34ef7d
+SHA256: 314280e319b6753f2e3af1dbde892efbc6a45bf50b6e3b3be594837f7399e1a1
 Section: web
 Priority: optional
 Description: SanikaBrowser
